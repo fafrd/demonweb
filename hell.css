@@ -1,0 +1,8 @@
+html, body 
+{
+	background-color: #ff0000;
+}
+html, body, div
+{
+	font-family: "MathJax_Fraktur","Gabriola","Palatino","System","serif";
+}
